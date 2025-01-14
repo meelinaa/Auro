@@ -18,6 +18,14 @@ Auro ist eine interaktive Webanwendung, mit der Benutzer Aktien suchen, deren Li
 
 ---
 
+## Projektstruktur
+
+Da Frontend und Backend in separaten Repositories gepflegt werden, finden Sie die aktuellen Inhalte hier:
+- [Frontend Repository](https://github.com/meelinaa/ProjektAuroFrontend)  
+- [Backend Repository](https://github.com/meelinaa/ProjektAuro)
+
+---
+
 ## Technologien
 
 - ⚛️ **Frontend:** React (JavaScript, HTML, CSS)  
@@ -32,14 +40,6 @@ Auro ist eine interaktive Webanwendung, mit der Benutzer Aktien suchen, deren Li
   Für eine portable und einfache Bereitstellung der Anwendung.
 - ✅ **Testing:**  
   Unit-Tests wurden hinzugefügt, Integrationstests folgen in einer späteren Phase.
-
----
-
-## Projektstruktur
-
-Da Frontend und Backend in separaten Repositories gepflegt werden, finden Sie die aktuellen Inhalte hier:
-- [Frontend Repository](https://github.com/meelinaa/ProjektAuroFrontend)  
-- [Backend Repository](https://github.com/meelinaa/ProjektAuro)
 
 ---
 
@@ -137,4 +137,4 @@ Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
 ---
 
 ## Kontakt
-Für Fragen oder Feedback kontaktieren Sie mich über [E-Mail](mailto:deine.email@example.com) oder GitHub.
+Für Fragen oder Feedback kontaktieren Sie mich über [E-Mail](mailto:melinakiefer@hotmail.de) oder GitHub.
