@@ -28,7 +28,7 @@ Da Frontend und Backend in separaten Repositories gepflegt werden, finden Sie di
 
 ## Technologien
 
-- ⚛️ **Frontend:** React (JavaScript, HTML, CSS)  
+- ⚛️ **Frontend:** React (JavaScript ES6+, HTML, CSS)  
   Entwickelt für eine dynamische und reaktionsschnelle Benutzeroberfläche.
 - ☕ **Backend:** Java mit Spring Boot, Spring Data JPA, Lombok  
   Enthält die gesamte Business-Logik sowie Datenbank-Integrationen. Sicherheitsfunktionen wie Authentifizierung und Autorisierung sind derzeit nicht implementiert, können jedoch in zukünftigen Iterationen hinzugefügt werden.
