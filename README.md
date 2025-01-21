@@ -57,8 +57,6 @@ Dieses Projekt wurde vollständig von Grund auf selbst geplant und entwickelt. D
 
 ## Screenshots
 
-Fügen Sie hier Screenshots ein, um die Benutzeroberfläche und Kernfunktionen zu präsentieren:
-
 1. **Startseite / Portfolio:** Übersicht des Portfolios und weiteren empfolenen Aktien.
 <img src="/README-images/portfolio.png" alt="Beschreibung" style="width: 100%; display: block;">
 2. **Aktieninformationen:** Details und Grafiken zu einer ausgewählten Aktie.
