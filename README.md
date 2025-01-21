@@ -1,4 +1,5 @@
 # Auro: Virtueller Aktien-Broker 📈
+<img src="/README-images/banner.png" alt="Beschreibung" style="width: 100%; display: block;">
 
 Auro ist eine interaktive Webanwendung, mit der Benutzer Aktien suchen, deren Live-Daten und weitere Informationen einsehen sowie diese kaufen und verkaufen können. Benutzer haben Zugriff auf ein persönliches Konto mit einem bestimmten Guthaben, um Transaktionen durchzuführen. Die Anwendung umfasst sowohl ein modernes Frontend als auch ein leistungsstarkes Backend.
 
@@ -58,10 +59,16 @@ Dieses Projekt wurde vollständig von Grund auf selbst geplant und entwickelt. D
 
 Fügen Sie hier Screenshots ein, um die Benutzeroberfläche und Kernfunktionen zu präsentieren:
 
-1. **Startseite / Dashboard:** Übersicht des Portfolios und aktueller Kontostand.
+1. **Startseite / Portfolio:** Übersicht des Portfolios und weiteren empfolenen Aktien.
+<img src="/README-images/portfolio.png" alt="Beschreibung" style="width: 100%; display: block;">
 2. **Aktieninformationen:** Details und Grafiken zu einer ausgewählten Aktie.
+<img src="/README-images/aktie.png" alt="Beschreibung" style="width: 100%; display: block;">
 3. **Kauf-/Verkauf-Ansicht:** Eingabemaske für den Handel von Aktien.
+<img src="/README-images/kaufen.png" alt="Beschreibung" style="width: 40%; display: flex;">
+<img src="/README-images/bestätigen.png" alt="Beschreibung" style="width: 40%; display: flex;">
 4. **Transaktionshistorie:** Übersicht über durchgeführte Käufe und Verkäufe.
+<img src="/README-images/konto.png" alt="Beschreibung" style="width: 100%; display: block;">
+
 
 ---
 
