@@ -17,7 +17,6 @@ Auro ist eine interaktive Webanwendung, mit der Benutzer Aktien suchen, deren Li
 - **Web Scraping:** Integration von JSoup, um zusätzliche Finanzdaten von Webseiten zu extrahieren und im System verfügbar zu machen.
 - **Skalierbarkeit:** Die Architektur des Projekts wurde so entworfen, dass zukünftige Erweiterungen und neue Funktionen problemlos integriert werden können.
 
----
 
 ## Projektstruktur
 
@@ -25,7 +24,6 @@ Da Frontend und Backend in separaten Repositories gepflegt werden, finden Sie di
 - [Frontend Repository](https://github.com/meelinaa/ProjektAuroFrontend)  
 - [Backend Repository](https://github.com/meelinaa/ProjektAuro)
 
----
 
 ## Technologien
 
@@ -42,7 +40,6 @@ Da Frontend und Backend in separaten Repositories gepflegt werden, finden Sie di
 - ✅ **Testing:**  
   Unit-Tests wurden hinzugefügt, Integrationstests folgen in einer späteren Phase.
 
----
 
 ## Software-Entwicklung und Planung
 
@@ -53,7 +50,6 @@ Dieses Projekt wurde vollständig von Grund auf selbst geplant und entwickelt. D
 - **Iterative Entwicklung:** Features werden schrittweise hinzugefügt und verbessert, basierend auf einem agilen Entwicklungsansatz.
 - **Lernfokus:** Dieses Projekt wurde entwickelt, um meine Fähigkeiten in der Softwareentwicklung zu vertiefen, einschließlich Frontend- und Backend-Integration, API-Entwicklung, Datenbankmanagement und mehr.
 
----
 
 ## Screenshots
 
@@ -68,8 +64,6 @@ Dieses Projekt wurde vollständig von Grund auf selbst geplant und entwickelt. D
 <img src="/README-images/konto.png" alt="Beschreibung" style="width: 100%; display: block;">
 
 
----
-
 ## Voraussetzungen
 
 Um dieses Projekt lokal auszuführen, benötigen Sie folgende Tools:
@@ -80,7 +74,6 @@ Um dieses Projekt lokal auszuführen, benötigen Sie folgende Tools:
 4. Maven (für Backend-Builds)
 5. Git (zum Klonen des Repositories)
 
----
 
 ## Lokale Installation und Ausführung
 
@@ -134,7 +127,6 @@ Um dieses Projekt lokal auszuführen, benötigen Sie folgende Tools:
 2. (geplant) Registrieren oder melden Sie sich an, um auf die Funktionen zuzugreifen.
 3. Suchen Sie nach Aktien, fügen Sie diese Ihrem Portfolio hinzu und verfolgen Sie Ihre Transaktionen.
 
----
 
 ## Lizenz
 Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
