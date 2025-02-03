@@ -89,7 +89,8 @@ Um dieses Projekt lokal auszuführen, benötigen Sie folgende Tools:
 
    Navigieren Sie in das Backend-Verzeichnis und starten Sie die Datenbank::
    ```bash
-   docker-compose up
+   docker-compose up -d
+   docker run --name auro_postgres -e POSTGRES_USER=Auro1234 -e POSTGRES_PASSWORD=passwordAuro -e POSTGRES_DB=databaseAuro -p 5432:5432 -d postgres
    ```
 
 2. **Backend mit Maven starten:**
